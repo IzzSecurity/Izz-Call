@@ -122,13 +122,13 @@ echo -e -n "${verde}
 └═>>>█ [${blanco}01${verde}] ┃ ${blanco}SPAM CALL KE 1 NOMBOR TELEFON  ${verde}█
 ┃    └═══════════════════════════════════════════┘
 ┃    ┌═══════════════════════════════════════════┐
-└═>>>█ [${blanco}02${verde}] ┃ ${blanco}SIMPAN 1 NOMBOR DALAM SENARAI HITAM ${verde}█
+└═>>>█ [${blanco}02${verde}] ┃ ${blanco}SIMPAN 1 NOMBOR DALAM SENARAI HITAM (NOT WORKING)${verde}█
 ┃    └═══════════════════════════════════════════┘
 ┃    ┌═══════════════════════════════════════════┐
-└═>>>█ [${blanco}03${verde}] ┃ ${blanco}SPAM NOMBOR SENARAI HITAM  ${verde}█
+└═>>>█ [${blanco}03${verde}] ┃ ${blanco}SPAM NOMBOR SENARAI HITAM (NOT WORKING) ${verde}█
 ┃    └═══════════════════════════════════════════┘
 ┃    ┌═══════════════════════════════════════════┐
-└═>>>█ [${blanco}04${verde}] ┃ ${blanco}LIHAT NOMBOR PADA SENARAI HITAM  ${verde}█
+└═>>>█ [${blanco}04${verde}] ┃ ${blanco}LIHAT NOMBOR PADA SENARAI HITAM (NOT WORKING) ${verde}█
 ┃    └═══════════════════════════════════════════┘
 ┃    ┌══════════════┐
 └═>>>█ [${blanco}00${verde}] ┃ ${rojo}KELUAR ${verde}█
